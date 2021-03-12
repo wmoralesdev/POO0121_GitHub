@@ -10,7 +10,10 @@ namespace CollaborativeWork
         }
 
         // TODO: Estudiante A -> Crear funcion para leer datos desde teclado
-        
+        static string ReadFromConsole()
+        {
+            return Console.ReadLine();
+        }
 
         // TODO: Estudiante B -> Crear una funcion que reciba un string
         // y verificar si tiene cantidad par de letras (caracteres)

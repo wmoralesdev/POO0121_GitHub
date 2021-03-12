@@ -1,0 +1,16 @@
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.exe
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.deps.json
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.runtimeconfig.json
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.runtimeconfig.dev.json
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.dll
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\ref\CollaborativeWork.dll
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\bin\Debug\net5.0\CollaborativeWork.pdb
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.csprojAssemblyReference.cache
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.AssemblyInfoInputs.cache
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.AssemblyInfo.cs
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.csproj.CoreCompileInputs.cache
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.dll
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\ref\CollaborativeWork.dll
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.pdb
+E:\Documentos\Workspaces\Repaso git y github\Compu Samuel\POO0121_GitHub\CollaborativeWork\obj\Debug\net5.0\CollaborativeWork.genruntimeconfig.cache
