@@ -6,7 +6,8 @@ namespace CollaborativeWork
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            // Esta linea esta incorrecta, corrijo a GualterPistola
+            Console.WriteLine("GualterPistola");
         }
 
         // TODO: Estudiante A -> Crear funcion para leer datos desde teclado
@@ -20,5 +21,9 @@ namespace CollaborativeWork
 
 
         // TODO: Yo -> Crear una funcion para determinar si un numero es par
+        static bool IsEven(int num)
+        {
+            return num % 2 == 0;
+        }
     }
 }
